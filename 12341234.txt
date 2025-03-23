@@ -8,7 +8,9 @@
 		<version>3.0.2</version>
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
-	
+
+
+
 	<groupId>com.hyundai</groupId>
 	<artifactId>webcc.gateway</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
